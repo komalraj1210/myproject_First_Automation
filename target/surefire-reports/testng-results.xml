@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-03T19:42:47 IST" name="Suite" finished-at="2025-06-03T19:42:59 IST" duration-ms="12642">
+    <groups>
+      <group name="regression">
+        <method signature="TC002_VerifyMyAccountDisplayed.verifyVerifyMyAccountDisplayed()[pri:1, instance:testCases.TC002_VerifyMyAccountDisplayed@2c4d1ac]" name="verifyVerifyMyAccountDisplayed" class="testCases.TC002_VerifyMyAccountDisplayed"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC001_AccountRegistration.Verify_Account_Registration()[pri:1, instance:testCases.TC001_AccountRegistration@49ff7d8c]" name="Verify_Account_Registration" class="testCases.TC001_AccountRegistration"/>
+      </group> <!-- smoke -->
+      <group name="master">
+        <method signature="TC001_AccountRegistration.Verify_Account_Registration()[pri:1, instance:testCases.TC001_AccountRegistration@49ff7d8c]" name="Verify_Account_Registration" class="testCases.TC001_AccountRegistration"/>
+        <method signature="TC002_VerifyMyAccountDisplayed.verifyVerifyMyAccountDisplayed()[pri:1, instance:testCases.TC002_VerifyMyAccountDisplayed@2c4d1ac]" name="verifyVerifyMyAccountDisplayed" class="testCases.TC002_VerifyMyAccountDisplayed"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2025-06-03T19:42:47 IST" name="Test" finished-at="2025-06-03T19:42:59 IST" duration-ms="12642">
+      <class name="testCases.TC001_AccountRegistration">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistration@49ff7d8c]" started-at="2025-06-03T19:42:54 IST" name="setup" finished-at="2025-06-03T19:42:58 IST" duration-ms="3952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_Account_Registration()[pri:1, instance:testCases.TC001_AccountRegistration@49ff7d8c]" started-at="2025-06-03T19:42:58 IST" name="Verify_Account_Registration" finished-at="2025-06-03T19:42:59 IST" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Account_Registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001_AccountRegistration@49ff7d8c]" started-at="2025-06-03T19:42:59 IST" name="teardown" finished-at="2025-06-03T19:42:59 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC001_AccountRegistration -->
+      <class name="testCases.TC002_VerifyMyAccountDisplayed">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_VerifyMyAccountDisplayed@2c4d1ac]" started-at="2025-06-03T19:42:47 IST" name="setup" finished-at="2025-06-03T19:42:52 IST" duration-ms="5096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyVerifyMyAccountDisplayed()[pri:1, instance:testCases.TC002_VerifyMyAccountDisplayed@2c4d1ac]" started-at="2025-06-03T19:42:52 IST" name="verifyVerifyMyAccountDisplayed" finished-at="2025-06-03T19:42:53 IST" duration-ms="1256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVerifyMyAccountDisplayed -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_VerifyMyAccountDisplayed@2c4d1ac]" started-at="2025-06-03T19:42:53 IST" name="teardown" finished-at="2025-06-03T19:42:54 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002_VerifyMyAccountDisplayed -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <!-- This sets the base directory for log files -->
+    <Properties>
+        <Property name="basePath">./logs</Property>
+    </Properties>
+
+    <!-- Appenders define where the logs will be written -->
+    <Appenders>
+
+        <!-- Console appender prints logs to the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- File appender saves logs into files -->
+        <RollingFile name="File"
+                     fileName="${basePath}/automation.log"
+                     filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+
+            <!-- Log pattern: timestamp, thread, log level, logger name, and message -->
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+
+            <!-- Roll the file if it exceeds 5000 bytes (approx. 5 KB) -->
+            <SizeBasedTriggeringPolicy size="5000"/>
+
+        </RollingFile>
+
+    </Appenders>
+
+    <!-- Root logger applies to all classes unless overridden -->
+    <Loggers>
+        <!-- Log level is set to debug to capture all messages from debug and above -->
+        <Root level="Debug">
+            <!-- Uncomment if you want to also print logs to the console -->
+            <!-- <AppenderRef ref="Console"/> -->
+
+            <!-- Logs will be written to the file -->
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+
+</Configuration>

@@ -1,0 +1,51 @@
+11:35:00.510 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.523 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.526 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:35:00.526 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:35:00.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:35:00.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\komalr\AppData\Local\Temp\testng-eclipse-1368565482\testng-customsuite.xml
+
+11:35:00.550 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+11:35:00.688 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@13cf7d52: 64 ms
+11:35:00.704 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b7ff809: 16 ms
+11:35:00.715 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60641ec8: 9 ms
+11:35:00.722 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58c34bb3: 7 ms
+11:35:00.728 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@207b8649: 5 ms
+11:35:00.728 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@65b3a85a: 0 ms
+11:35:20.712 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\Master.xml"
+11:35:20.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\komalr\eclipse-workspace\myproject\Master.xml
+
+11:53:34.808 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\Master.xml"
+11:53:35.191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\komalr\eclipse-workspace\myproject\Master.xml
+
+11:58:28.700 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\CrossBrowserExecution.xml"
+11:58:28.991 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\komalr\eclipse-workspace\myproject\CrossBrowserExecution.xml
+
+11:58:34.896 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+11:58:35.810 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+11:58:35.989 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login
+11:58:36.606 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login
+11:58:39.411 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ---------> clicking on continue in registration page
+11:58:39.429 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - ---------> clicking on continue in registration page
+11:58:39.476 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - --------->Account created
+11:58:39.476 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - --------->Testt completed
+11:58:39.494 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - --------->Account created
+11:58:39.495 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - --------->Testt completed
+11:58:40.813 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+11:58:41.414 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login

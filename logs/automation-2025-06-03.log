@@ -1,0 +1,50 @@
+06:49:48.828 [main] INFO  testCases.TC001_AccountRegistration - Browser closed successfully
+18:41:47.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\grouping.xml"
+18:41:47.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\komalr\eclipse-workspace\myproject\grouping.xml
+
+18:41:54.035 [main] INFO  testCases.TC001_AccountRegistration - Browser launched successfully
+18:41:55.047 [main] INFO  testCases.TC001_AccountRegistration - Navigated to URL: https://tutorialsninja.com/demo/
+18:41:55.081 [main] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+18:41:55.514 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login
+18:41:56.780 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicking on continue in registration page
+18:41:56.832 [main] INFO  testCases.TC001_AccountRegistration - --------->Account created
+18:41:56.832 [main] INFO  testCases.TC001_AccountRegistration - --------->Test completed
+18:41:57.118 [main] INFO  testCases.TC001_AccountRegistration - Browser closed successfully
+19:21:51.611 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\testng.xml"
+19:21:56.658 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Browser launched successfully
+19:21:57.703 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Navigated to URL: https://tutorialsninja.com/demo/
+19:21:57.721 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> TC002_VerifyMyAccountDisplayed Started
+19:21:58.082 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> Entered Login page
+19:21:59.080 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> TC002_VerifyMyAccountDisplayed Completed
+19:21:59.390 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Browser closed successfully
+19:22:01.883 [main] INFO  testCases.TC001_AccountRegistration - Browser launched successfully
+19:22:02.557 [main] INFO  testCases.TC001_AccountRegistration - Navigated to URL: https://tutorialsninja.com/demo/
+19:22:02.558 [main] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+19:22:02.968 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login
+19:22:04.206 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicking on continue in registration page
+19:22:04.239 [main] INFO  testCases.TC001_AccountRegistration - --------->Account created
+19:22:04.239 [main] INFO  testCases.TC001_AccountRegistration - --------->Test completed
+19:22:04.418 [main] INFO  testCases.TC001_AccountRegistration - Browser closed successfully
+19:34:31.811 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\testng.xml"
+19:34:36.068 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Browser launched successfully
+19:34:36.983 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Navigated to URL: https://tutorialsninja.com/demo/
+19:34:37.002 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> TC002_VerifyMyAccountDisplayed Started
+19:34:37.371 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> Entered Login page
+19:34:38.193 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> TC002_VerifyMyAccountDisplayed Completed
+19:34:38.405 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Browser closed successfully
+19:34:41.161 [main] INFO  testCases.TC001_AccountRegistration - Browser launched successfully
+19:34:41.807 [main] INFO  testCases.TC001_AccountRegistration - Navigated to URL: https://tutorialsninja.com/demo/
+19:34:41.809 [main] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+19:34:42.192 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login
+19:34:43.328 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicking on continue in registration page
+19:34:43.364 [main] INFO  testCases.TC001_AccountRegistration - --------->Account created
+19:34:43.364 [main] INFO  testCases.TC001_AccountRegistration - --------->Test completed
+19:34:43.562 [main] INFO  testCases.TC001_AccountRegistration - Browser closed successfully
+19:42:47.158 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\komalr\eclipse-workspace\myproject\testng.xml"
+19:42:51.710 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Browser launched successfully
+19:42:52.622 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Navigated to URL: https://tutorialsninja.com/demo/
+19:42:52.638 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> TC002_VerifyMyAccountDisplayed Started
+19:42:52.994 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> Entered Login page
+19:42:53.891 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - --------> TC002_VerifyMyAccountDisplayed Completed
+19:42:54.131 [main] INFO  testCases.TC002_VerifyMyAccountDisplayed - Browser closed successfully

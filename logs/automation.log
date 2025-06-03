@@ -1,0 +1,8 @@
+19:42:57.390 [main] INFO  testCases.TC001_AccountRegistration - Browser launched successfully
+19:42:58.085 [main] INFO  testCases.TC001_AccountRegistration - Navigated to URL: https://tutorialsninja.com/demo/
+19:42:58.086 [main] INFO  testCases.TC001_AccountRegistration - --------> Test Started
+19:42:58.490 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicked on the login
+19:42:59.782 [main] INFO  testCases.TC001_AccountRegistration - ---------> clicking on continue in registration page
+19:42:59.814 [main] INFO  testCases.TC001_AccountRegistration - --------->Account created
+19:42:59.815 [main] INFO  testCases.TC001_AccountRegistration - --------->Test completed
+19:42:59.998 [main] INFO  testCases.TC001_AccountRegistration - Browser closed successfully

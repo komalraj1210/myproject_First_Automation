@@ -1,0 +1,13 @@
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\pageObjects\BasePage.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\pageObjects\HomePage.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\pageObjects\LoginPage.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\pageObjects\MyAccount_Page.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\pageObjects\Register_Page.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\testBase\BaseClass.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\testBase\BaseClass__mini.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\testCases\TC001_AccountRegistration.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\testCases\TC002_VerifyMyAccountDisplayed.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\testCases\TC003_Login_DDT.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\utilities\DataProviders.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\utilities\ExcelUtility.java
+C:\Users\komalr\eclipse-workspace\myproject\src\test\java\utilities\ExtentReportManager.java
